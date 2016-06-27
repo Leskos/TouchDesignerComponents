@@ -1,10 +1,15 @@
-# TouchDesignerComponents
-Collection of .tox components
+
 
 ## TimeMachine.tox
+![](https://i.imgur.com/VVeDFN8.png)
+
 Simple wrapper for doing slit scan effects with the TimeMachine TOP.
 
+
 ## AutoPresetUI.tox
+
+![](https://i.imgur.com/Lalf4Pj.png)
+
 Reworked version of Keith Lostracco's great little preset UI component that auto populates based on a page of custom parameters. Slightly bodgy, but currently supports int, float, toggle and menu parameters.
 
 Instructions:
@@ -21,6 +26,9 @@ http://www.derivative.ca/Forum/viewtopic.php?f=22&t=6582
 
 
 ## CornerPinUI.tox
+
+![](https://i.imgur.com/4gR7JYa.png)
+
 An easy to use UI for extracting a subsection of an image. Useful for aligning simple kinect/camera tracking with a projection area.
 - Left click to move corner points
 - Middle click to store current state as preset
